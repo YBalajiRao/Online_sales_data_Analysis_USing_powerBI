@@ -1,0 +1,1 @@
+A filter affects the entire dataset, while a slicer is a visual way to apply filters to specific parts of the data.
